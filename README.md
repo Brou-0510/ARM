@@ -1,4 +1,2 @@
-- Hi, I’m @Brou-0510 (Paige Broussard)
-- I’m interested in data analyzing, software development, and game development
-- I’m currently learning Java, R, and SQL
-- How to reach me paigebgreen11@gmail.com
+# ARM
+All code written in ARM assembly in Microprocessors (CP216) at Wilfrid Laurier
